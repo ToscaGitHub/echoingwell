@@ -1,0 +1,66 @@
+
+
+body {
+
+    margin: 0;
+    width: 100%;
+
+}
+
+nav {
+    
+    width: 100%;
+
+    margin-bottom: 8%;
+
+    background-color: #ffffff;
+
+}
+
+nav ul {
+    
+    
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    padding-left: 10%;
+    
+    
+}
+
+nav ul li {
+    
+    list-style-type: none;
+
+    margin-right: 4.5%;
+    padding-right: 2%;
+
+}
+
+nav ul li a {
+    
+    text-decoration: none;
+    color: #707070;
+
+    font-family: 'Montserrat', 'Sans-Serif';
+    font-size: 30px;
+    font-weight: 400;
+
+
+}
+
+nav ul li a:hover {
+    
+    color: brown;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.15);
+    
+}
+
+
+
+.background {
+
+    background-image: url("/image/backgrounds/incontournables.png");
+
+
+}
